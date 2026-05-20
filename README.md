@@ -1,4 +1,5 @@
-# POE - CyberBot.01Overview
+# POE - CyberBot.01
+Overview
 CyberBot is a Windows Presentation Foundation (WPF) desktop application built with C# and .NET. It functions as an interactive virtual assistant designed to educate users on cybersecurity best practices, test their knowledge through interactive quizzes, and manage personal tasks with built-in reminder tracking.
 
 This project demonstrates strong capabilities in desktop UI design using XAML, state management, event-driven programming, the integration of native Windows APIs, and modern CI/CD practices.
